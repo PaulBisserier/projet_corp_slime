@@ -33,7 +33,7 @@
             <a href="#"><i class="fab fa-twitter-square">&nbspSuivez-nous sur Twitter</i></a>
         </p>
         <p class="col-lg-12 text-center">
-            <a href="#"><i class="fab fa-tiktok"></i>&nbspSuivez-nous sur TikTok</a>
+            <a href="#"><i class="fab fa-tiktok">&nbspSuivez-nous sur TikTok</i></a>
         </p>
         <p class="col-lg-12 text-center">
             <a href="#"><i class="fab fa-instagram-square">&nbspSuivez-nous Instagram</i></a>
