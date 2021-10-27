@@ -30,10 +30,10 @@
             <a href="#"><i class="fab fa-facebook-square">&nbspSuivez-nous sur Facebook</i></a>
         </p>
         <p class="col-lg-12 text-center">
-            <a href="#"><i class="fab fa-twitter-square">&nbspSuivez-nous sur Twitter</i></a>
+            <a href="#"><i class="fab fa-twitter-square"></i>&nbspSuivez-nous sur Twitter</a>
         </p>
         <p class="col-lg-12 text-center">
-            <a href="#"><i class="fab fa-tiktok">&nbspSuivez-nous sur TikTok</i></a>
+            <a href="#"><i class="fab fa-tiktok"></i>&nbspSuivez-nous sur TikTok</a>
         </p>
         <p class="col-lg-12 text-center">
             <a href="#"><i class="fab fa-instagram-square">&nbspSuivez-nous Instagram</i></a>
