@@ -9,6 +9,10 @@ main {
 	flex: 1;
 }
 
+footer ul {
+	list-style: none;
+}
+
 footer a {
 	text-decoration: none;
 	color: white;
