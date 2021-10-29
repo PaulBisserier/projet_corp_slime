@@ -1,3 +1,4 @@
+</main>
 <footer class="row bg-success text-center p-3 text-white justify-content-around flex-wrap">
     <div class="card-body col-sm-10 col-md-8 col-lg-4 col-xl-3 mx-1 bg-success">
         <h2 class="text-white text-center pb-2">Newsletter</h2>
@@ -29,5 +30,13 @@
             <li class="social"><a href="#"><i class="fab fa-instagram"></i>&nbsp Instagram</a></li>
         </ul>
     </div>
-
 </footer>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
+<script src="js/script.js"></script>
+<script src="js/projets.js"></script>
+<script src="js/formulaire.js"></script>
+</body>
+
+</html>

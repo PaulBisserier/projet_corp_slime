@@ -1,7 +1,6 @@
 const partner = document.querySelector('#partenaire');
 const checkBox = document.querySelector("#don-checkbox")
 const btn = document.querySelector("#don")
-const btnAdd = document.querySelector("#ajout")
 
 let partenaires = ['partenaire1', 'partenaire2', 'partenaire3'];
 let checkboxTab = [];
@@ -59,7 +58,9 @@ window.addEventListener("DOMContentLoaded", (event) => {
     }
 })
 
-btnAdd.addEventListener('click', () => {
-    document.location.href = "/formulaire.php"
-})
+// btnAdd.addEventListener('click', () => {
+//     console.log("coucou");
+// })
+
+
 
